@@ -16,6 +16,7 @@ def make_new_dir(output_path):
         shutil.rmtree(output_path)
     os.mkdir(output_path)
 
+
 def ogg2wav(audio, wav_output_path):
     # Set the sample rate to 22050
     audio = audio.set_frame_rate(22050)
@@ -38,14 +39,14 @@ def MrNewVegas_wiki(output_path):
     # Transcription file
     with open(f'{output_path}/MrNewVegas.txt', mode='w', newline='') as file:
 
+        print("Collecting MrNewVegas files")
         # Loop through the li tags and find the src attribute in the div element
-        for li in li_tags:
+        for li in tqdm(li_tags):
             if li.find('i'):
                 
                 div_tag = li.find('audio')  # Find the first div element inside the li tag
                 if div_tag:  # Check if a div element was found
                     src_attribute = div_tag['src']  # Access the src attribute using square bracket notation
-                    print(src_attribute)
                     ogg_filename = None
                     for x in src_attribute.split('/'):
                         if '.ogg' in x:
@@ -67,17 +68,19 @@ def MrNewVegas_wiki(output_path):
                     if text or wav_filename in bad_data:
                         file.write(f'{wav_filename}|{text}\n')
 
+    zip_and_clean(output_path,f'{output_path}.zip')
 
 
 
-def zip_folder(folder_path, zip_path):
+
+def zip_and_clean(folder_path, zip_path):
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zip_file:
         for root, dirs, files in os.walk(folder_path):
             for file in files:
                 file_path = os.path.join(root, file)
                 zip_file.write(file_path, os.path.relpath(file_path, folder_path))
-
-
+            
+    shutil.rmtree(folder_path)
 
 def remove_curly_brackets(raw_str):
   return re.sub(r'\{.*?\}', '', raw_str)
@@ -152,11 +155,8 @@ def MrHouse_wiki(output_path):
             for line in raw_data:
                 file.write(line + '\n')
 
+    zip_and_clean(output_path, f'{output_path}.zip')
 
 
-
-
-
-# MrNewVegas_wiki('wiki-MNV')
-# zip_folder('wiki-MNV', 'wiki-MNV.zip')
+MrNewVegas_wiki('wiki-MNV')
 MrHouse_wiki('MrHouse')
