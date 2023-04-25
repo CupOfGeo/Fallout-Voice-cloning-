@@ -85,6 +85,15 @@ def zip_and_clean(folder_path, zip_path):
 def remove_curly_brackets(raw_str):
   return re.sub(r'\{.*?\}', '', raw_str)
 
+def remove_square_brackets(my_string):
+    return re.sub(r'\[.*?\]', '', my_string)
+
+def remove_angle_bracket(raw_string):
+    return re.sub(r'<.*?>', '', my_string)
+    
+    
+
+
 def MrHouse_sound_resources(folder_path):
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
@@ -129,6 +138,10 @@ def MrHouse_wiki(output_path):
     
     url = "https://fallout-archive.fandom.com/wiki/Robert_House%27s_dialogue"
 
+    # so these are sound files from when hes dying in the pod
+    # no longer get taken as i just dont scrape that table
+    # bad_data = ["00159463_1", "00159466_1", "0015945F_1", "00159465_1", "00159460_1", "00159461_1", "00159462_1", "0015946A_1", "0015946E_1", "0015946F_1"]
+
     # Make a request to the web page
     response = requests.get(url)
 
@@ -140,20 +153,22 @@ def MrHouse_wiki(output_path):
     hosue_audio_ogg = os.listdir(output_path)
 
     # Find all the tr tags in the HTML
-    table = soup.find('table', {'class': 'va-table'})
-    for row in table.find_all('tr'):
-        cells = row.find_all('td')
-        if len(cells) == 7:
-            if cells[5].text.lower().strip()+".wav" in hosue_audio_ogg:
-                # minor cleaning 
-                response = cells[4].text.strip()  
-                response = remove_curly_brackets(response) # removes {sound/emotion/tone}
-                fname = cells[5].text.lower().strip()+".wav"
-                raw_data.append(fname+"|"+response)
+    tables = soup.find_all('table', {'class': 'va-table'})
+    del tables[1]
+    for table in tables:
+        for row in table.find_all('tr'):
+            cells = row.find_all('td')
+            if len(cells) == 7:
+                if cells[5].text.lower().strip()+".wav" in hosue_audio_ogg:
+                    # minor cleaning 
+                    response = cells[4].text.strip()  
+                    response = remove_curly_brackets(remove_square_brackets(remove_angle_bracket(response))) # removes {sound/emotion/tone}
+                    fname = cells[5].text.lower().strip()+".wav"
+                    raw_data.append(fname+"|"+response)
 
-        with open(f'{output_path}/wiki-transcription.txt', 'w') as file:
-            for line in raw_data:
-                file.write(line + '\n')
+            with open(f'{output_path}/wiki-transcription.txt', 'w') as file:
+                for line in raw_data:
+                    file.write(line + '\n')
 
     zip_and_clean(output_path, f'{output_path}.zip')
 

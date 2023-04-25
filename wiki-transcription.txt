@@ -1,0 +1,594 @@
+vdialoguem_vdialoguemrhous_00133710_1.wav|Well enough. Be on your way.
+vdialoguem_vdialoguemrhous_0015ab8a_1.wav|A crude question, crudely asked.
+vdialoguem_vdialoguemrhous_0015ab8a_2.wav|I'll be happy to satisfy your rambunctious curiosity at a more appropriate moment. But now, I'll repeat my question...
+vdialoguem_vdialoguemrhous_0015ab8b_1.wav|What do you make of what you've seen?
+vdialoguem_vdialoguemrhous_001418ac_1.wav|You have?
+vdialoguem_vdialoguemrhous_0014d2cd_1.wav|Not interested? Not interested?
+vdialoguem_vdialoguemrhous_0014d2cd_2.wav|You have an interest in this even if you're too stupid to know it. If you have an interest in breathing, you have an interest in this.
+vdialoguem_vdialoguemrhous_0014d2cd_3.wav|Return to the Fort and do whatever it takes to recover the Chip.
+vdialoguem_vdialoguemrhous_00159478_1.wav|I recommend following the Securitron's instructions. Its programming is... strict, and I don't have time to change it.
+vdialoguem_vdialoguemrhous_0014189a_1.wav|Indeed. Moving on...
+vdialoguem_vdialoguemrhous_001418a6_1.wav|Don't tell me that you've fallen for the stories of noble paladins on crusade, preserving mankind's technology in a benighted age? Dross!
+vdialoguem_vdialoguemrhous_001418a6_2.wav|In any case... this is an employer - employee relationship. I've given you an assignment, and the directions are clear.
+vdialoguem_vdialoguemrhous_0014b642_2.wav|I've spent too many years waiting for this moment to see it fumbled by an insubordinate contractor.
+vdialoguem_vdialoguemrhous_0014b642_3.wav|I can't reach through this monitor and compell you to follow instructions, but know this - if you disappoint me, you will pay for it.
+vdialoguem_vdialoguemrhous_0011d987_2.wav|Why didn't Victor intervene sooner, you mean?
+vdialoguem_vdialoguemrhous_0011d987_3.wav|Goodsprings is a bit too far away for me to reliably control a Securitron agent by remote. I can send and receive packets of data, at best.
+vdialoguem_vdialoguemrhous_0011d987_4.wav|Victor's combat algorithms determined the proper course of action. Benny and his thugs were more than a match for a lone Securitron.
+vdialoguem_vdialoguemrhous_0011d987_1.wav|When he alerted me, I instructed him to approach the site after Benny and the others had departed.
+vdialoguem_vdialoguemrhous_001550f4_1.wav|I needed the operating software on the Platinum Chip to bring it back online.
+vdialoguem_vdialoguemrhous_001550f4_2.wav|And to start the reactor itself requires a tremendous jolt of current. Very attention-getting.
+vdialoguem_vdialoguemrhous_001550f4_3.wav|The NCR has its hands full now, of course. I doubt they'll raise much of a fuss.
+vdialoguem_vdialoguemrhous_0014b653_1.wav|So what are you doing here? Return to the Fort at once.
+vdialoguem_vdialoguemrhous_0014b653_2.wav|Recover the Platinum Chip. Once you've entered the bunker hidden beneath the weather station, you'll receive further instructions.
+vdialoguem_vdialoguemrhous_00141896_1.wav|There's nothing to think about. You have a job to do, so do it.
+vdialoguem_vdialoguemrhous_001550f2_1.wav|The strain of defending Las Vegas from annhilation exceeded my power systems' capacity. My primary reactor shut down.
+vdialoguem_vdialoguemrhous_001550f2_2.wav|For years, I played a miser with my emergency power supply. I began to run out of reserves around the time I woke the first batch of Securitrons.
+vdialoguem_vdialoguemrhous_001550f2_3.wav|Negotiating an allotment of power from Hoover Dam was crucial. That's what's powered the Strip for the past seven years.
+vdialoguem_vdialoguemrhous_001418b4_1.wav|Then look harder.
+vdialoguem_vdialoguemrhous_00158264_1.wav|Hello.
+vdialoguem_vdialoguemrhous_00158265_1.wav|Come over and introduce yourself.
+vdialoguem_vdialoguemrhous_00158266_1.wav|Come now, don't keep me waiting.
+vdialoguem_vdialoguemrhous_00158267_1.wav|I invited you here so we could talk, not so you can nose around.
+vdialoguem_vdialoguemrhous_001564fa_1.wav|Step closer to the demonstration area, if you would...
+vdialoguem_vdialoguemrhous_00158271_1.wav|I expect you're well familiar with my Securitrons by now.
+vdialoguem_vdialoguemrhous_00158272_1.wav|The titanium alloy housing that protects its electronic core deflects small arms and shrapnel easily enough...
+vdialoguem_vdialoguemrhous_00158273_1.wav|Its X-25 gatling laser, produced to spec by Glastinghouse, Inc., is deadly  against soft targets at medium range...
+vdialoguem_vdialoguemrhous_00158274_1.wav|And for close-range suppression or crowd control, the Securitron is armed with a 9mm submachinegun.
+vdialoguem_vdialoguemrhous_00158275_1.wav|All of this, you probably already knew...
+vdialoguem_vdialoguemrhous_00158276_1.wav|What you did not know is that these are the Securitrons' secondary weapons.
+vdialoguem_vdialoguemrhous_00158277_1.wav|All this time, my Securitrons have had to get by running the Mark I operating system, which lacked software drivers for their primary weapons!
+vdialoguem_vdialoguemrhous_00159a16_1.wav|Today, with the delivery of the Platinum Chip, all that changes. Behold, for the first time, Securitrons running the Mark II OS!
+vdialoguem_vdialoguemrhous_00158278_1.wav|The M-235 Missile Launcher gives the Securitron the ability to engage ground and air targets at significantly longer ranges...
+vdialoguem_vdialoguemrhous_00158279_1.wav|And a rapid-fire G-28 grenade launching system ensures the Securitron is deadly in close-range engagements.
+vdialoguem_vdialoguemrhous_0015827a_1.wav|The software upgrade also includes drivers for the Securitrons' highly sophisticated onboard auto-repair systems.
+vdialoguem_vdialoguemrhous_00159a17_1.wav|All together, the Mark II software upgrade confers a 235% increase in combat effectiveness per unit.
+vdialoguem_vdialoguemrhous_0015827b_1.wav|The city of New Vegas finally has soldiers worthy of protecting it!
+vdialoguem_vdialoguemrhous_0015827c_1.wav|Return to the penthouse now. We have much to discuss...
+vdialoguem_vdialoguemrhous_001418b6_2.wav|We're talking about a coterie of bulging-eyed fanatics who think all Pre-War technology belongs to them.
+vdialoguem_vdialoguemrhous_001418b6_4.wav|They'll never accept my using an army of robots to defend New Vegas. While it's a fight I can win, I'd rather sidestep it altogether.
+vdialoguem_vdialoguemrhous_0015510f_1.wav|With this accomplished, all preparations will have been made. The battle for Hoover Dam will be upon us before long.
+vdialoguem_vdialoguemrhous_001564fc_1.wav|If this statement is being broadcast, I am deceased. Please approach a Securitron and take one of the printed obituaries.
+vdialoguem_vdialoguemrhous_00159a11_1.wav|I, Robert Edwin House, am deceased. Please approach a Securitron and take one of the printed obituaries.
+vdialoguem_vdialoguemrhous_00155101_1.wav|Can't put the genie back in the bottle, is that it? Maybe you should've thought of that before you conspired to destroy my property.
+vdialoguem_vdialoguemrhous_00155101_2.wav|That said, I'd know nothing of the Omertas' plot if you'd kept it secret. Perhaps I owe you my gratitude, after all...
+vdialoguem_vdialoguemrhous_00155101_3.wav|The information you've provided will suffice. When the battle for Hoover Dam comes, I'll make sure my Securitrons are waiting for the Omertas.
+vdialoguem_vdialoguemrhous_001550ea_1.wav|Not so eager to take on a suicide mission, is that it? If you'd shown moderation in your dealings with the NCR, we wouldn't be in this position.
+vdialoguem_vdialoguemrhous_001550f5_1.wav|That's rather obvious, isn't it?
+vdialoguem_vdialoguemrhous_00155102_1.wav|[SUCCEEDED] They knew you were coming? They were better prepared than I anticipated, then. I won't underestimate them again.
+vdialoguem_vdialoguemrhous_00155102_3.wav|Before that happens, I'd ask you to complete one final task. It may seem trivial, but that's far from the case.
+vdialoguem_vdialoguemrhous_00155103_1.wav|[FAILED] Whatever your reasons, you've jeopardized the success of this entire concern!
+vdialoguem_vdialoguemrhous_0014b641_2.wav|Surely you know that I am Robert Edwin House, President, CEO, and sole proprietor of the New Vegas Strip.
+vdialoguem_vdialoguemrhous_0014b641_3.wav|I oversaw the city's renovations starting from 2274 onward. The Three Families are my employees.
+vdialoguem_vdialoguemrhous_0014eaaa_1.wav|I'll expect to see some tangible progress before long, then.
+vdialoguem_vdialoguemrhous_0014eab7_1.wav|They occupied Nellis Air Force Base a little over 50 years ago. One of my Securitrons got some video of their arrival - and then... exploded.
+vdialoguem_vdialoguemrhous_0014eab7_2.wav|Odds are they were Vault dwellers. That's everything I know about them, really.
+vdialoguem_vdialoguemrhous_0014eab8_1.wav|Only if you come within a mile or so of them.
+vdialoguem_vdialoguemrhous_0014eab8_2.wav|Given their history of extreme isolationism, it's tempting to leave them be. But those howitzers of theirs...
+vdialoguem_vdialoguemrhous_0014eab8_3.wav|You can't let indeterminate variables rattle around in your equations like that. They have to be accounted for, one way or another.
+vdialoguem_vdialoguemrhous_00141890_1.wav|After all that we've accomplished?
+vdialoguem_vdialoguemrhous_001550fe_1.wav|An opinion you expressed with supreme subtlety and finesse. Moving on...
+vdialoguem_vdialoguemrhous_0014189f_1.wav|There's more than one way to skin a cat, as the saying goes. Or went, that is - cats being extinct.
+vdialoguem_vdialoguemrhous_0014189f_2.wav|I don't promote political assassination as a first option, but it has a long and storied history. I'll consider the Boomers neutralized.
+vdialoguem_vdialoguemrhous_0014b658_1.wav|Then there will be no safe haven for you.
+vdialoguem_vdialoguemrhous_0014ead2_1.wav|As I've told you before, you are contractually obligated to deliver the Chip. Do your job - you have everything to gain.
+vdialoguem_vdialoguemrhous_0014f566_1.wav|This is not an optional assignment. Kimball may be a grandstanding boor, but I want him protected.
+vdialoguem_vdialoguemrhous_0014b64f_1.wav|[SUCCEEDED] Fine, you'll receive a nice bonus when the work is done. And speaking of getting it done...
+vdialoguem_vdialoguemrhous_0014b650_1.wav|[FAILED] You signed a contract to deliver the Platinum Chip, and you'll be paid when the delivery is made.
+vdialoguem_vdialoguemrhous_0015510d_1.wav|There's a job that needs doing here, and I'm assigning it to you.
+vdialoguem_vdialoguemrhous_0015510e_1.wav|Marvellous work ethic, bravo.
+vdialoguem_vdialoguemrhous_00137b11_1.wav|Goodbye.
+vdialoguem_vdialoguemrhous_001599c7_1.wav|I won't lie to you. It'll be dangerous.
+vdialoguem_vdialoguemrhous_0015eb69_4.wav|We've accomplished a great deal, you and I. One last task, and our work is complete. I'll see you in the control room.
+vdialoguem_vdialoguemrhous_0014f55b_1.wav|You're making me question your usefulness, you realize.
+vdialoguem_vdialoguemrhous_00141891_1.wav|Your "accident" has jeopardized the success of this entire concern.
+vdialoguem_vdialoguemrhous_001550fb_1.wav|Up to this point, your efforts yielded near-perfect results. But now I'm forced to fumble in the dark - to gamble.
+vdialoguem_vdialoguemrhous_001550fb_2.wav|Light must be brought to this darkness.
+vdialoguem_vdialoguemrhous_0015510c_1.wav|I much prefer working with robots...
+vdialoguem_vdialoguemrhous_0014b63f_1.wav|It's a facility I built many years before you were born. You might think of it as a barracks. You'll understand soon enough.
+vdialoguem_vdialoguemrhous_00159a12_1.wav|Yes, I know. It was detected immediately and deactivated... let's see... 39.735 seconds after you planted it.
+vdialoguem_vdialoguemrhous_00159a12_2.wav|You thought I wouldn't notice?
+vdialoguem_vdialoguemrhous_00159a13_1.wav|One of the Followers of the Apocalypse, I'm sure. They're curious about me.
+vdialoguem_vdialoguemrhous_00159a13_2.wav|Good luck planting a surveillance device here in the Lucky 38 without my knowing about it.
+vdialoguem_vdialoguemrhous_00142546_1.wav|This is no time to be droll...
+vdialoguem_vdialoguemrhous_001429f1_2.wav|Absolutely not! Caesar is of great use to me.
+vdialoguem_vdialoguemrhous_001429f1_3.wav|I don't want you harming a hair on that man's head - assuming you can find one.
+vdialoguem_vdialoguemrhous_0014ead3_1.wav|The Omertas are fanatically loyal to each other. Still, among any group, one can find the occasional degenerate.
+vdialoguem_vdialoguemrhous_0014ead3_2.wav|Gomorrah's receptionist happens to be one. For years she passed on whispers of what was taking place at the casino, in exchange for payment.
+vdialoguem_vdialoguemrhous_0014ead3_3.wav|A few months ago, she clammed up. Odds are she's scared, but I've had no way of approaching her. Start with her.
+vdialoguem_vdialoguemrhous_001418b3_1.wav|The print-out I've given you lists every lead I've been able to uncover. See what you can find out.
+vdialoguem_vdialoguemrhous_00126d8d_1.wav|Singlehandedly destroying a Brotherhood of Steel bunker is quite an accomplishment. Platoons of NCR troops have died, trying to do the same.
+vdialoguem_vdialoguemrhous_00126d8d_2.wav|This welcome news comes just in time, as events in the wider world are coming to a head...
+vdialoguem_vdialoguemrhous_001550fd_1.wav|You'll have to be more specific.
+vdialoguem_vdialoguemrhous_0011d98a_1.wav|Sneaking into Benny's suite on the 13th floor would be very difficult... but not impossible.
+vdialoguem_vdialoguemrhous_0011d98a_2.wav|There might be guards. Certainly there'd be a sturdy lock on his front door.
+vdialoguem_vdialoguemrhous_001550f3_1.wav|And how do you know this?
+vdialoguem_vdialoguemrhous_001418af_3.wav|Outside New Vegas, at what was once called Nellis Air Force Base, resides an unusual tribe known as the Boomers.
+vdialoguem_vdialoguemrhous_001418af_4.wav|They are, shall we say, aggressively reclusive? They have several howitzers they fire at anyone who dares approach the base.
+vdialoguem_vdialoguemrhous_001418af_5.wav|Artillery of this sort has a range of several miles. If it's going to fire on Hoover Dam, I want it firing at my targets.
+vdialoguem_vdialoguemrhous_001418af_6.wav|If not, then I want to make sure that the Boomers don't sign similar treaties to fire their guns in support of the NCR or Caesar's Legion.
+vdialoguem_vdialoguemrhous_001418ab_2.wav|Use extreme caution when approaching the base. Their firepower is... considerable.
+vdialoguem_vdialoguemrhous_001418ab_4.wav|Recently, one of my roaming Securitrons observed a man near the base studying the pattern of its artillery fire. Maybe he's learned something.
+vdialoguem_vdialoguemrhous_0014b65b_1.wav|Was that meant to be a shocking revelation? Of course Caesar wants it destroyed - he's afraid of what the bunker might hold, and rightly so.
+vdialoguem_vdialoguemrhous_0014b65b_2.wav|But you're not going to do that. You're going to do the smart thing, and work for me.
+vdialoguem_vdialoguemrhous_0014b648_1.wav|The same equipment failure that prevents me from remotely operating this facility seems to have activated its security robots and turrets.
+vdialoguem_vdialoguemrhous_0014b648_3.wav|There's a security room near the base of the stairs... perhaps you can deactivate them yourself.
+vdialoguem_vdialoguemrhous_0014eabf_1.wav|Come back when you have something to report.
+vdialoguem_vdialoguemrhous_00141892_1.wav|I offer many benefits, but vacation time isn't one of them.
+vdialoguem_vdialoguemrhous_0014188f_1.wav|Well done. The Boomers' firepower may prove an advantage when the battle for Hoover Dam comes around.
+vdialoguem_vdialoguemrhous_0014f55f_1.wav|I'll send a Securitron ahead to meet with the NCR at the security checkpoint and get things started.
+vdialoguem_vdialoguemrhous_0014f55f_2.wav|Once you get there ask for Ranger Grant. I've used roaming Securitrons to feed him useful information in the past.
+vdialoguem_vdialoguemrhous_0014f55f_3.wav|If I tell him we've heard of a Legion assassination plot, I believe he'll let you investigate.
+vdialoguem_vdialoguemrhous_0015946b_1.wav|What of it? I enjoy them. There's something about a little diorama set inside a glass dome that I... find pleasing.
+vdialoguem_vdialoguemrhous_0015946b_2.wav|If you run across any out in the wastes, turn them in to Jane. She'll compensate you.
+vdialoguem_vdialoguemrhous_00155108_1.wav|I see. So where does that put us?
+vdialoguem_vdialoguemrhous_0014eace_1.wav|It was a place of splendor. As magnificent as today's Strip may seem, it's but a shadow of the neon paradise that was Las Vegas.
+vdialoguem_vdialoguemrhous_0014eace_2.wav|I grew up not far from here, and though I traveled the old world extensively, I never found another place like it.
+vdialoguem_vdialoguemrhous_0014eacf_1.wav|By 2065 I deemed it a mathematical certainty that an atomic war would devastate the Earth within 15 years. Every projection I ran confirmed it.
+vdialoguem_vdialoguemrhous_0014eacf_2.wav|I knew I couldn't "save the world," nor did I care to. But I could save Vegas, and in the process, perhaps, save mankind.
+vdialoguem_vdialoguemrhous_0014eacf_3.wav|I set to work immediately. I thought I had plenty of time to prepare. As it turned out, I was 20 hours short.
+vdialoguem_vdialoguemrhous_0014ead0_1.wav|On the day of the Great War, 77 atomic warheads targeted Las Vegas and its surrounding areas.
+vdialoguem_vdialoguemrhous_0014ead0_2.wav|My networked mainframes were able to predict and force-transmit disarm code subsets to 59 warheads, neutralizing them before impact.
+vdialoguem_vdialoguemrhous_0014ead0_3.wav|Laser cannons mounted on the roof of the Lucky 38 destroyed another 9 warheads. The rest got through, though none hit the city itself.
+vdialoguem_vdialoguemrhous_0014ead0_4.wav|A sub-optimal performance, admittedly. If only the Platinum Chip had arrived a day sooner...
+vdialoguem_vdialoguemrhous_0014ead1_1.wav|The Platinum Chip was printed in Sunnyvale, California on October 22, 2077 - the day before the Great War.
+vdialoguem_vdialoguemrhous_0014ead1_2.wav|It was to have been delivered by courier the following afternoon... but by then, the world had ended.
+vdialoguem_vdialoguemrhous_0014ead1_3.wav|The Chip contained vital software upgrades, but not just for my Securitrons. Every aspect of the missile defense grid would have been upgraded, too.
+vdialoguem_vdialoguemrhous_0014ead1_4.wav|Given that I had to make do with buggy software, the outcome could have been worse. I nearly died as it was.
+vdialoguem_vdialoguemrhous_001558d9_1.wav|Software glitches set off a cascade of system crashes. I had to take the Lucky 38's reactor offline, lest it melt down.
+vdialoguem_vdialoguemrhous_001558d9_2.wav|For nearly five years I battled power outages and more system crashes until I finally managed to reboot my data core with an older version of the OS.
+vdialoguem_vdialoguemrhous_001558d9_3.wav|I spent the next few decades in a veritable coma. But I survived, obviously - and eventually thrived.
+vdialoguem_vdialoguemrhous_001418b7_1.wav|It seems diplomacy is not your forte.
+vdialoguem_vdialoguemrhous_001418b7_2.wav|Given the strength of your past performance, I think we can let this go without further comment. I'm pulling you on to a new assignment.
+vdialoguem_vdialoguemrhous_001418bf_1.wav|Your impulsivity has jeopardized the success of this entire concern!
+vdialoguem_vdialoguemrhous_001550ed_1.wav|[SUCCEEDED] In that case, I commend you for your initiative. What do you recommend for next steps?
+vdialoguem_vdialoguemrhous_001550ee_1.wav|[FAILED]And you assisted them? That's what you mean to say, isn't it?
+vdialoguem_vdialoguemrhous_001418be_1.wav|Why is good help so impossible to find?
+vdialoguem_vdialoguemrhous_0014189b_1.wav|You laid the foundation for my victory, so fine - I'll permit some latitude in how you schedule your work.
+vdialoguem_vdialoguemrhous_0014189b_2.wav|You're welcome.
+vdialoguem_vdialoguemrhous_00141895_1.wav|Arrogance was their undoing. There might be a lesson in that. But moving on...
+vdialoguem_vdialoguemrhous_0011d0c5_1.wav|You have an "interest" in this, whether you like it or not. You signed a contract to deliver the Platinum Chip to me.
+vdialoguem_vdialoguemrhous_0011d0c5_2.wav|Now, I could stop you from leaving, but what would that accomplish? If you want to go, go.
+vdialoguem_vdialoguemrhous_0011d0c5_3.wav|See what the Strip I built - the Strip I own - has to offer. Think about what I could offer you. I expect we'll have occasion to talk again.
+vdialoguem_vdialoguemrhous_0014b655_2.wav|It's a facility I built many years before you were born. You might think of it as a kind of barracks. You'll understand soon enough.
+vdialoguem_vdialoguemrhous_0014f561_1.wav|I'm sure the assassins will wait for you to show up.
+vdialoguem_vdialoguemrhous_0011d986_1.wav|You realize you were just one of many couriers, the rest of them dummies, so to speak?
+vdialoguem_vdialoguemrhous_0011d986_2.wav|Add to that many thousands of caps worth of mercenary protection to screen your avenue of approach.
+vdialoguem_vdialoguemrhous_0011d986_3.wav|Had I used an armed caravan to transport the Chip, I might as well have been announcing to the world "this is important. Attack this!"
+vdialoguem_vdialoguemrhous_0011d986_4.wav|I didn't want to attract the attention of groups like the Great Khans or the Brotherhood of Steel. Alas, the real threat was closer to home.
+vdialoguem_vdialoguemrhous_0014188e_1.wav|Well done. They won't be causing any trouble, then.
+vdialoguem_vdialoguemrhous_0015946c_1.wav|By my calculations, his death will affect the shape of the battle for Hoover Dam minimally, if at all.
+vdialoguem_vdialoguemrhous_0015946c_2.wav|The Legion's aggression will outlive Caesar. Indeed, they'll try to take the dam as a tribute to his memory.
+vdialoguem_vdialoguemrhous_0015946c_3.wav|Given a year, they'd have him deified - but by then the Legion will be breaking down, riven by internal conflicts, a monster consuming itself.
+vdialoguem_vdialoguemrhous_0015946c_4.wav|It's irrelevant. In the short term, the Legion is still monster enough that defeating it will make me look powerful indeed.
+vdialoguem_vdialoguemrhous_00159477_1.wav|Hoover Dam, of course. A hydroelectric dam?
+vdialoguem_vdialoguemrhous_00159477_2.wav|The NCR had it up and running at 50% capacity within a year of occupying the dam. By treaty, New Vegas receives 5% of its output - more than enough.
+vdialoguem_vdialoguemrhous_0014b654_2.wav|Listen to me, very carefully. I've waited too long for this moment for you to go fouling it up on a lark.
+vdialoguem_vdialoguemrhous_0014b654_3.wav|Do as I say, and your rewards will be immense. Thwart me, and your punishment will become the purpose of my existence.
+vdialoguem_vdialoguemrhous_0014eac2_1.wav|They're a terrorist group, basically. Militant, quasi-religious fanatics obsessed with hoarding Pre-War technology.
+vdialoguem_vdialoguemrhous_0014eac2_2.wav|Not all technology, mind you. You don't see them raiding hospitals to cart away Auto-Docs or armfuls of prosthetic organs.
+vdialoguem_vdialoguemrhous_0014eac2_3.wav|No, they greatly prefer the sort of technology that puts people in hospitals. Or graves, rather, since hospitals went the way of the Dodo.
+vdialoguem_vdialoguemrhous_0014eac3_1.wav|Because they're ridiculous! Because they galavant around the Mojave pretending to be Knights of Yore.
+vdialoguem_vdialoguemrhous_0014eac3_2.wav|Or did, until the NCR showed them that ideological purity and shiny power armor don't count for much when you're outnumbered 15:1.
+vdialoguem_vdialoguemrhous_0014eac3_3.wav|The world has no use for emotionally unstable techno-fetishists. Just wipe them out, will you?
+vdialoguem_vdialoguemrhous_0014eac8_1.wav|I care because he is a known quantity - not the man so much as the political context he inhabits.
+vdialoguem_vdialoguemrhous_0014eac8_2.wav|Kimball rose to prominence as the "Hero of the Mojave" when he led a campaign of reprisals against tribals who dared to attack NCR citizens.
+vdialoguem_vdialoguemrhous_0014eac8_3.wav|Ordering the occupation of Hoover Dam was his first act of office. As water and electricity flowed to NCR cities, his popularity soared.
+vdialoguem_vdialoguemrhous_0014eac8_4.wav|Conversely, his failure to annex the Mojave these seven years, and the immense costs of occupying a foreign land, have eroded his popular support.
+vdialoguem_vdialoguemrhous_0014eac9_1.wav|Kimball's entire political career is inextricably bound up with the NCR's occupation of the Mojave. It's his war.
+vdialoguem_vdialoguemrhous_0014eac9_2.wav|If I compell the NCR to retreat, Kimball will be the sacrifice offered to the gods, so decent NCR citizens can get on with their lives.
+vdialoguem_vdialoguemrhous_0014eac9_3.wav|In retrospect, the Mojave and Hoover Dam will seem like one man's misadventure. Kimball will be blamed, not me. Not New Vegas.
+vdialoguem_vdialoguemrhous_001550f8_1.wav|Then the Hero of the Mojave would become the Martyr of Hoover Dam. And when, subsequently, I force the NCR to retreat...
+vdialoguem_vdialoguemrhous_001550f8_2.wav|They lick their wounds, and dream of righteous vengeance against New Vegas. Hello, embargo, farewell, tourist economy.
+vdialoguem_vdialoguemrhous_001550f8_3.wav|I've calculated and re-calculated these probabilities. Kimball must live.
+vdialoguem_vdialoguemrhous_0014ead6_1.wav|Imagine two snarling dogs fighting over a curve of bone, perhaps the rib of their master, long-dead.
+vdialoguem_vdialoguemrhous_0014ead6_2.wav|It'll be a pitched battle, that's a certainty. Perhaps the greatest battle the Earth has seen since the human race nearly made itself extinct.
+vdialoguem_vdialoguemrhous_0014ead7_1.wav|With Caesar dead, it's hard to know what to expect. The Legate, Lanius, is renowned as a brutal man, not a subtle tactician.
+vdialoguem_vdialoguemrhous_0014ead7_2.wav|Frontal assaults, wave attacks - these are the sort of tactics one would expect from such a man.
+vdialoguem_vdialoguemrhous_0014ead8_1.wav|The Legion will mount a ferocious and determined frontal assault from the east, that much is certain.
+vdialoguem_vdialoguemrhous_0014ead8_2.wav|Still, Caesar is a capable strategist. I'd be surprised if he hasn't found some way to infiltrate the dam, or the NCR's rear areas.
+vdialoguem_vdialoguemrhous_0015b7a1_2.wav|General Oliver's strategy - or "tunnel vision," as I like to call it - has been to mass troops at Hoover Dam.
+vdialoguem_vdialoguemrhous_0015b7a1_4.wav|He wants to out-fight the Legion in a straight-forward slugging match, and then, when they rout, pursue and destroy them in detail.
+vdialoguem_vdialoguemrhous_0015b7a1_5.wav|A crushing, decisive victory of this sort would overshadow the tactical ingenuity of Chief Hanlon's defense four years ago, you see.
+vdialoguem_vdialoguemrhous_0015b7a2_1.wav|A good deal should be obvious to you by now. I won't spoil the rest by talking out of turn.
+vdialoguem_vdialoguemrhous_001550ef_1.wav|I suppose you're right... When the Legion assaults Hoover Dam, my Securitrons will be waiting for the Omertas. They won't accomplish much.
+vdialoguem_vdialoguemrhous_001550fc_1.wav|From time to time, the NCR has assaulted Brotherhood bunkers. In four of the six incidents I know of, the bunkers self-destructed.
+vdialoguem_vdialoguemrhous_001550fc_2.wav|I surmise it's standard practice for the Brotherhood to install a self-destruct system. It's consistent with their uncompromising nature.
+vdialoguem_vdialoguemrhous_001550fc_3.wav|You might use that against them. Or kill them another way, it's up to you. Return when it's done.
+vdialoguem_vdialoguemrhous_00155437_1.wav|Your objective is to reach a control room halfway across the dam and install an override module similar to the one you used at the Substation.
+vdialoguem_vdialoguemrhous_00155437_5.wav|The override will enable to control the entire dam's power output.
+vdialoguem_vdialoguemrhous_00155437_2.wav|You may remember how the bunker at the Fort was rather dimly lit? Well, just like the Lucky 38, it needs a big jolt of electricity to power up.
+vdialoguem_vdialoguemrhous_00155437_3.wav|You've already uploaded the new operating system to the Securitrons. All they need is power and they'll be in fighting trim.
+vdialoguem_vdialoguemrhous_0015eb5d_1.wav|As I've said, your objective is to install an override module in the control room halfway across the dam. Are you ready perform this task?
+vdialoguem_vdialoguemrhous_00155100_1.wav|Since 2278, I've lost five roaming Securitrons near Hidden Valley.
+vdialoguem_vdialoguemrhous_00155100_2.wav|I didn't receive any clear video of the incidents, but telemetry from the units destroyed indicates they were attacked with energy weapons.
+vdialoguem_vdialoguemrhous_001418aa_1.wav|It's obvious that the Brotherhood has a base in Hidden Valley or thereabouts. Finding it won't be easy, but getting inside will be the real trick.
+vdialoguem_vdialoguemrhous_00126d96_1.wav|[SUCCEEDED] Very well... five times your delivery bonus - not one cap more.
+vdialoguem_vdialoguemrhous_00126d97_1.wav|[FAILED] Is that an attempt at... humor?
+vdialoguem_vdialoguemrhous_00126d97_2.wav|I've always taken business negotiations seriously. I advise you to do the same.
+vdialoguem_vdialoguemrhous_0015eb61_1.wav|Then handle them with dispatch. The Legion's assault is imminent.
+vdialoguem_vdialoguemrhous_0011d994_1.wav|To your untrained eyes, it may look as though mankind is making a comeback. In the NCR, you have something that remsembles a nation state.
+vdialoguem_vdialoguemrhous_0011d994_2.wav|Savage as it is, in Caesar's Legion, you have an organized society. But neither of these offer a future. They're regurgitations of the past.
+vdialoguem_vdialoguemrhous_0011d994_3.wav|Bring me the Platinum Chip, and in ten years you'll hardly recognize this city.
+vdialoguem_vdialoguemrhous_0014b652_1.wav|Are you a child? The Platinum Chip was taken from you, obviously.
+vdialoguem_vdialoguemrhous_0014b643_2.wav|My army will do what an army does best - defend territory from invaders... and maintain order.
+vdialoguem_vdialoguemrhous_001550f6_1.wav|Exactly how many civilians did you want to die in that crossfire?
+vdialoguem_vdialoguemrhous_001550f6_2.wav|Still, you raise a fair point. My Securitrons can handle this. When the Legion attacks Hoover Dam, I'll be waiting for the Omertas.
+vdialoguem_vdialoguemrhous_0015510a_1.wav|Don't attack unless there are clear signs that Kimball's visit is imminent. Cause enough chaos to cancel the visit, no more. Then return to me.
+vdialoguem_vdialoguemrhous_0015510b_1.wav|You could've succeeded!
+vdialoguem_vdialoguemrhous_00127169_1.wav|You'll need a disguise, then. Or overwhelming firepower. Whatever works.
+vdialoguem_vdialoguemrhous_00127169_2.wav|Sorry for the inconvenience, but it can't be helped. This is too important.
+vdialoguem_vdialoguemrhous_0011d98c_1.wav|I have to think that he found out about the Platinum Chip and mistakenly convinced himself that he could use it to his own ends.
+vdialoguem_vdialoguemrhous_0011d98c_2.wav|One of the problems of a tribal work force, I'm afraid. No intuitive understanding of how complex technologies can be.
+vdialoguem_vdialoguemrhous_0011d985_4.wav|That's simply not true.
+vdialoguem_vdialoguemrhous_0011d985_1.wav|I am the only person to hold any rights pertaining to the Chip. I designed it, and I paid for it - dearly.
+vdialoguem_vdialoguemrhous_0011d985_2.wav|To develop that Chip, I spent a sum of U.S. dollars - not the bottle caps that pass as currency these days - but a sum beyond counting.
+vdialoguem_vdialoguemrhous_0011d985_5.wav|For decades, I paid salvagers to comb the ruins for it.  And when it was finally discovered, tens of thousands of caps spent to have it brought here.
+vdialoguem_vdialoguemrhous_0011d985_3.wav|We know how that turned out. Complete your contract and it will be the last time I pay for the Chip. Save your questions for then.
+vdialoguem_vdialoguemrhous_0011d991_1.wav|If you were to approach Benny in public, you might be able to leverage his fear of exposure to make him agree to meet with you in private.
+vdialoguem_vdialoguemrhous_0014eab5_1.wav|Excellent idea.
+vdialoguem_vdialoguemrhous_0014eac0_1.wav|His destination is hardly a mystery. It's a near certainty that he's making his way for Caesar's camp, at Fortification Hill.
+vdialoguem_vdialoguemrhous_0014eac0_2.wav|It's one of just two places on Earth that have the hardware necessary to read the Platinum Chip  - the Lucky 38 is the other, of course.
+vdialoguem_vdialoguemrhous_0014eaac_1.wav|And why would you have done that?
+vdialoguem_vdialoguemrhous_0014eaac_2.wav|Success depends on forcing the NCR to rout from Hoover Dam. Hmm, does giving then a powerful ally in the battle make that more or less likely?
+vdialoguem_vdialoguemrhous_0014eaac_3.wav|Your assignment is unchanged - destroy the Brotherhood of Steel. Please get it right this time.
+vdialoguem_vdialoguemrhous_001550f7_1.wav|You're absolutely right. You must've had run-ins with them. As have I...
+vdialoguem_vdialoguemrhous_001550fa_1.wav|I can't use you. Had you shown moderation in your dealings with the NCR, we'd be in a different position.
+vdialoguem_vdialoguemrhous_001550ec_1.wav|Whatever those reasons may be, you've jeopardized the success of this entire concern.
+vdialoguem_vdialoguemrhous_00155438_1.wav|Indeed they do - an army that'll be too distracted with killing Legionaries to notice the real reason you're there.
+vdialoguem_vdialoguemrhous_0011d996_3.wav|It's more complicated than that. The Chairmen share what you might call a... tribal affinity.
+vdialoguem_vdialoguemrhous_0011d996_1.wav|Look for a man named Swank, Benny's second-in-command. He's always been a reliable, if unimaginative, employee.
+vdialoguem_vdialoguemrhous_0011d996_2.wav|Do your best to convince him that you're working under my auspices. If you have evidence of Benny's crimes, show it to him.
+vdialoguem_vdialoguemrhous_0014f564_1.wav|Success depends on forethought, dispassionate calculation of probabilites, accounting for every stray variable.
+vdialoguem_vdialoguemrhous_0014f564_2.wav|Your history of aggression towards the NCR has rendered you useless in this concern, unable to influence the outcome of events.
+vdialoguem_vdialoguemrhous_0014f564_3.wav|Consequently, I have to "wait and see" what happens. It's... grotesque.
+vdialoguem_vdialoguemrhous_0014ead4_1.wav|I don't employ you to uncover evidence. This isn't a court of law.
+vdialoguem_vdialoguemrhous_0014ead4_2.wav|If the Omertas pose a threat to the physical or economic security of the Vegas Strip, I want you to do whatever it takes to neutralize that threat.
+vdialoguem_vdialoguemrhous_001550eb_2.wav|Until you do this, consider yourself suspended... without pay.
+vdialoguem_vdialoguemrhous_001418a3_1.wav|Not surprising. Also not acceptable.
+vdialoguem_vdialoguemrhous_001418a3_3.wav|I didn't ask you to tell me what they were planning, I asked you to kill them. This was a waste of time.
+vdialoguem_vdialoguemrhous_001418a3_2.wav|Go back to the bunker and destroy it. My directions have been clear from the start.
+vdialoguem_vdialoguemrhous_0014eadb_1.wav|There will time for questions and answers once you've delivered the Chip. Until then, you'll have to tolerate your ignorance... just as I do.
+vdialoguem_vdialoguemrhous_0014eaae_1.wav|And whose idea was it to offer yourself up as a sacrificial lamb? Really, what did you expect?
+vdialoguem_vdialoguemrhous_0014eaae_2.wav|Are you going to keep giving him opportunities to kill you? It's becoming a hobby of his.
+vdialoguem_vdialoguemrhous_00155105_1.wav|No cause for alarm - you'll have an escort of Securitrons to help you fight your way onto the dam.
+vdialoguem_vdialoguemrhous_0012716a_1.wav|You can't - but the Chip can. The hatch will recognize the Platinum Chip and "open sesame."
+vdialoguem_vdialoguemrhous_0011d993_1.wav|To achieve my aims, I require a capable human agent to perform certain... tasks.
+vdialoguem_vdialoguemrhous_0011d993_2.wav|I knew Benny was ambitious, even ruthless. But I believed he would do the job, so long as he was incentivized appropriately.
+vdialoguem_vdialoguemrhous_0011d993_4.wav|Obviously, I miscalculated his drive for supremacy. But in any case, you've come along - a more-than-suitable replacement.
+vdialoguem_vdialoguemrhous_0014189c_1.wav|Your incompetence has jeopardized the success of this entire concern!
+vdialoguem_vdialoguemrhous_0015947f_1.wav|Think you're doing well to have made it this far?
+vdialoguem_vdialoguemrhous_00159480_1.wav|Your chances of breaking through my defenses, they're... minimal, at best!
+vdialoguem_vdialoguemrhous_00159481_1.wav|Why are you doing this?
+vdialoguem_vdialoguemrhous_00159482_1.wav|I would've made you wealthy! You could've helped change the world!
+vdialoguem_vdialoguemrhous_00159483_1.wav|You're actually going to do this all over again?
+vdialoguem_vdialoguemrhous_00159484_1.wav|Damn it, will you die already?
+vdialoguem_vdialoguemrhous_0011d98f_1.wav|We can discuss this in greater detail at another time. Suffice it to say that when my Securitrons detected NCR scouts at Hoover Dam, I took action.
+vdialoguem_vdialoguemrhous_0011d98f_2.wav|I recruited a tribal force to supplement my Securitrons and renovated the Strip just in time to welcome the NCR as it marched into the region.
+vdialoguem_vdialoguemrhous_0011d98f_3.wav|Instead of war, a treaty was negotiated. And the money started to pour in.
+vdialoguem_vdialoguemrhous_001418ad_1.wav|Every step of my plan has been precisely calculated and was, until now, well-executed.
+vdialoguem_vdialoguemrhous_00126d93_1.wav|I'll be happy to satisfy your every curiosity once the Platinum Chip has been delivered.
+vdialoguem_vdialoguemrhous_0014eab9_1.wav|This is not the time for Q&A. Kindly hand over the Chip.
+vdialoguem_vdialoguemrhous_0014b661_3.wav|The Platinum Chip unlocks this bunker. Hence, you have it.
+vdialoguem_vdialoguemrhous_0014b661_4.wav|Hence, Benny was captured or killed - possibly by you, but by my estimates, far more probably by Caesar's Legion. Hence, Caesar gave you the Chip.
+vdialoguem_vdialoguemrhous_0014b661_1.wav|Hence, Caesar wants you to destroy whatever you find in this bunker.
+vdialoguem_vdialoguemrhous_0014b662_3.wav|That you were searched very thoroughly when you arrived at the Fort is a certainty. And as the Chip is a little too large to be secreted away...
+vdialoguem_vdialoguemrhous_0014b662_4.wav|I also regard it a certainty that the Chip was discovered, taken from you, and given to Caesar - who returned it to you.
+vdialoguem_vdialoguemrhous_0014b662_5.wav|Two plus two equaling four, Caesar wants you to destroy whatever you find in this bunker.
+vdialoguem_vdialoguemrhous_0014b663_4.wav|But that's not going to happen, because you're going to work for me.
+vdialoguem_vdialoguemrhous_00159467_1.wav|Cannibalism was strictly forbidden in their contract. If some of them broke that stricture, they deserved whatever punishment you dealt them.
+vdialoguem_vdialoguemrhous_00159468_1.wav|No, I was not aware of this.
+vdialoguem_vdialoguemrhous_00159468_2.wav|Is it really so hard not to engage in cannibalism? My goodness...
+vdialoguem_vdialoguemrhous_00159468_3.wav|It's a violation of their contract. I authorize you to deal with them in any way you see fit.
+vdialoguem_vdialoguemrhous_00159469_1.wav|Yes, of course. But refraining from those "dietary practices" is a primary requirement of their contract.
+vdialoguem_vdialoguemrhous_00159469_2.wav|They've been good to their word. Put together one hell of a resort hotel, too.
+vdialoguem_vdialoguemrhous_00159469_3.wav|From what I hear, I'd want to eat at the Gourmand every night... if I were ambulatory.
+vdialoguem_vdialoguemrhous_0014eab1_1.wav|By "goodbye," I assume you mean to say that you can't talk right now because you need to go get the Platinum Chip off Benny's body.
+vdialoguem_vdialoguemrhous_0014eab6_3.wav|I suspected he'd found a way to access my encrypted databases, but well - this explains it.
+vdialoguem_vdialoguemrhous_0014eab6_2.wav|That would be how he learned of the Platinum Chip in the first place... not to mention where to intercept you, on your way in.
+vdialoguem_vdialoguemrhous_0014eab6_1.wav|Highly resourceful, Benny. He would've made a fine agent, had he stayed loyal. It's fortunate you came along to replace him - and ironic.
+vdialoguem_vdialoguemrhous_001550f1_1.wav|Oh no, not so quick. I still have work for you.
+vdialoguem_vdialoguemrhous_00155109_1.wav|This is not a good time to be dependent on energy from Hoover Dam. When the Legion attacks, the NCR may cut power altogether.
+vdialoguem_vdialoguemrhous_00155109_2.wav|And I'll be needing a good deal more power than the NCR has allotted to the Strip.
+vdialoguem_vdialoguemrhous_00155109_3.wav|Broadcasting encrypted VMQ-boosted command signals to hundreds of Securitrons eats up more power than you might expect.
+vdialoguem_vdialoguemrhous_00155107_1.wav|Come back when your work at the substation is done.
+vdialoguem_vdialoguemrhous_0014eab4_1.wav|Hidden Valley is the place to keep working, then.
+vdialoguem_vdialoguemrhous_0011d0c6_1.wav|You are the first person to step foot inside the Lucky 38 in over 200 years. It was not an invitation I made lightly.
+vdialoguem_vdialoguemrhous_0011d0c6_2.wav|We have a serious matter to discuss, concerning a contract you have yet to fulfill.
+vdialoguem_vdialoguemrhous_0011d988_1.wav|Frontal assaults on casinos? Not good for business.
+vdialoguem_vdialoguemrhous_0011d988_3.wav|In any case, Benny would see it coming. And all he'd have to do is hold the Chip up and point a pistol at it.
+vdialoguem_vdialoguemrhous_0011d988_2.wav|Our foremost advantage is that Benny doesn't know that I know he has the Chip - let's not squander it.
+vdialoguem_vdialoguemrhous_0011d98e_1.wav|Then Vegas shall be lost, and with it, mankind's best hope for long-term survival.
+vdialoguem_vdialoguemrhous_0011d98b_1.wav|It won't be easy... Benny is always surrounded by at least four bodyguards - except when he's in his private suite on the 13th floor of the Tops...
+vdialoguem_vdialoguemrhous_0011d989_1.wav|By contract, Securitrons are to enter the casinos only when invited by the Three Families or if other extraordinary circumstances arise.
+vdialoguem_vdialoguemrhous_0011d989_3.wav|The moment I send one into the Tops, Benny will know I'm on to him.
+vdialoguem_vdialoguemrhous_0014d2cf_1.wav|Then gather together the firepower or explosives or whatever else you need and improvise.
+vdialoguem_vdialoguemrhous_0014d2cf_2.wav|I don't care if you have to kill every Legionary at the Fort. Get the job done.
+vdialoguem_vdialoguemrhous_0014b651_1.wav|Goodbye? Is that some kind of joke? You barely understand what I want you to accomplish down there.
+vdialoguem_vdialoguemrhous_0014b64e_1.wav|The bunker will be destroyed, and you'll die instantly.
+vdialoguem_vdialoguemrhous_0014eaad_1.wav|I'm the person who will pay you when you complete the delivery contract you signed. Now go get the Chip.
+vdialoguem_vdialoguemrhous_0014eaba_1.wav|What about him? He has every reason to go to the Fort, so that's where you'll find him.
+vdialoguem_vdialoguemrhous_0014eaba_2.wav|All I ask is that you recover the Chip. What happens to Benny is up to you.
+vdialoguem_vdialoguemrhous_0014eabd_1.wav|Yes, though at the time they called themselves the "Slither Kin." A vicious clan, not that that's changed, exactly.
+vdialoguem_vdialoguemrhous_0014eabd_3.wav|They were nomads, capable fighters, but their specialty was betrayal. They'd invite travelers into their yurts, drug them, murder or enslave them.
+vdialoguem_vdialoguemrhous_0014eabd_4.wav|They took pride in their craft. I don't think Omertas saw other people as people at all. Everyone else was just... prey.
+vdialoguem_vdialoguemrhous_0014eabd_5.wav|They reminded me of a certain criminal element Vegas used to attract. I told them some stories, gave them some clothes - and they ran with it.
+vdialoguem_vdialoguemrhous_0014eabe_1.wav|The Chairmen, as we know them now, went by the unfortunate appellation of the "Mojave Boot-Riders." They were nomads, too.
+vdialoguem_vdialoguemrhous_0014eabe_2.wav|As for the White Glove Society, I afraid I'm contractually obligated not to reveal their original name.
+vdialoguem_vdialoguemrhous_00155436_1.wav|Indeed you will. Just bear in mind that's not the reason you're there.
+vdialoguem_vdialoguemrhous_0014b64b_1.wav|I don't respond well to threats. Now, where were we...?
+vdialoguem_vdialoguemrhous_0014b657_1.wav|Good. I won't hold you up any longer.
+vdialoguem_vdialoguemrhous_0014b64a_1.wav|I like to think you have enough sense to do the right thing. The rewards for doing so are immense... as are the punishments for not doing so.
+vdialoguem_vdialoguemrhous_0014d2ce_1.wav|That would make for a welcome change.
+vdialoguem_vdialoguemrhous_0014b649_1.wav|It is obvious to you that I built this place? The Platinum Chip opened it, after all?
+vdialoguem_vdialoguemrhous_0014b649_2.wav|In any case, you're here. So let's get to it.
+vdialoguem_vdialoguemrhous_0014b656_3.wav|I see - you're in a predicament.
+vdialoguem_vdialoguemrhous_0014b656_4.wav|Just off the turbine room down below are three power regulators. It's a redundant system - only one is needed.
+vdialoguem_vdialoguemrhous_0014b656_5.wav|Go ahead and destroy one. The explosion will be large enough to be heard and felt aboveground.
+vdialoguem_vdialoguemrhous_001418a1_1.wav|Simple - an NCR Ranger named Grant is in charge of security arrangements for the visit. Present yourself to him, let him know you want to help.
+vdialoguem_vdialoguemrhous_001418a1_3.wav|Given your reputation, it's a near-certainty that he'll accept your offer.
+vdialoguem_vdialoguemrhous_001418a1_4.wav|Don't dally. The precise time of Kimball's visit is a closely-guarded secret, but it will happen soon.
+vdialoguem_vdialoguemrhous_00126d89_1.wav|The Legion has nothing left to wait for. Their assault on the dam could begin at any moment.
+vdialoguem_vdialoguemrhous_00126d89_2.wav|Before that happens, I'll ask you to complete one other task. It may seem trivial, but that's far from the case.
+vdialoguem_vdialoguemrhous_00126d88_2.wav|Fine - give me the Chip, and I'll pay you four times the delivery bonus stipulated in your contract. How's that?
+vfreeformh_vhsecuritronhou_00159b1d_1.wav|Ah, General Oliver. I expected you would survive.
+vfreeformh_vhsecuritronhou_00159b1e_1.wav|I see you've met my star employee. A real performer, obviously - and a lot more reliable than the other candidate I considered for the position.
+vfreeformh_vhsecuritronhou_00159b1f_1.wav|I'd pay very close attention to what she has to say, as well as any official papers she hands over for your perusal.
+vfreeformh_vhsecuritronhou_00159b20_1.wav|I'd pay very close attention to what he has to say, as well as any official papers he hands over for your perusal.
+vfreeformh_vhsecuritronhou_0015d983_1.wav|Let's get on with it, shall we? Hmm?
+vdialoguem_vdialoguemrhous_00159479_1.wav|You dared come here, after what you did?
+vdialoguem_vdialoguemrhous_0015947a_1.wav|What do you think you're going to do? Fight you way up to the penthouse and assassinate me?
+vdialoguem_vdialoguemrhous_0015947b_1.wav|You came here to finish what you think you started?
+vdialoguem_vdialoguemrhous_0015947c_1.wav|This is nothing compared to what's waiting for you up in the penthouse.
+vdialoguem_vdialoguemrhous_0015947d_1.wav|Vegas will still rise again. Your betrayal won't defeat me!
+vdialoguem_vdialoguemrhous_0015947e_1.wav|The Lucky 38 will be your grave. I'll finish what Benny couldn't get right!
+vdialoguem_vdialoguemrhous_00159470_1.wav|Hold on, now, hold on. Just a moment...
+vdialoguem_vdialoguemrhous_00159471_1.wav|Turn around and leave, and I'll... I won't attack you any further.
+vdialoguem_vdialoguemrhous_00159472_1.wav|Just... stay away from the console. It doesn't do anything...
+vdialoguem_vdialoguemrhous_00159473_1.wav|You've come back to kill me this time, I assume?
+vdialoguem_vdialoguemrhous_00159474_1.wav|Ironic, how this turned out. The thousands of hours I spent calculating odds, running projections, planning for every contingency...
+vdialoguem_vdialoguemrhous_00159475_1.wav|...only to be done in by a mail carrier with a grandiosity complex.
+vdialoguem_vdialoguemrhous_00159476_1.wav|Get it over with, will you?
+vdialoguem_vdialoguemrhous_00159485_1.wav|Aggressive acts on the casino premises will be met with lethal force. Vacate the premises immediately.
+vdialoguem_vdialoguemrhous_00159486_1.wav|Vacate the premises immediately. The casino is off-limits for 24 hours.
+vdialoguem_vdialoguemrhous_00159487_1.wav|Vacate the premises immediately. All Securitrons are at a state of high alert.
+vdialoguem_vdialoguemrhous_00155439_1.wav|Precisely. You'll have no trouble joining the battle on their side, and they'll be too distracted to notice why you're really there.
+vdialoguem_vdialoguemrhous_00120f0a_2.wav|Our terms were clear. Now that you have the Chip in your possession, any attempt to "re-negotiate" payment would be tantamount to blackmail.
+vdialoguem_vdialoguemrhous_00120f24_2.wav|Hmm... How shall I put this?
+vdialoguem_vdialoguemrhous_00120f24_1.wav|Delivery of the Platinum Chip is non-negotiable.
+vdialoguem_vdialoguemrhous_00120f24_3.wav|I invite you to think carefully about what you do next... standing alone before me, surrounded by my heavily-armed Securitron guards.
+vdialoguem_vdialoguemrhous_00120efe_1.wav|By the time I was 30 years old, I was a billionaire 30 times over. I founded and ran a vast economic empire.
+vdialoguem_vdialoguemrhous_00120efe_3.wav|Do you really think I'm going to let an upstart come into my home and ransom my property to me?
+vdialoguem_vdialoguemrhous_00120efe_2.wav|I spent two centuries searching for the Platinum Chip. It's my invention, my property - mine. Now be a good courier and deliver it!
+vdialoguem_vdialoguemrhous_00120f0e_1.wav|Why, thank you so much. You played that very poorly, you realize?
+vdialoguem_vdialoguemrhous_00120f0e_2.wav|You're fortunate that I have a certain tolerance for greed. I expect my business partners to be self-interested - but smartly so.
+vdialoguem_vdialoguemrhous_00120f02_1.wav|You needn't be afraid of me. It's my Securitrons that are going to kill you.
+vdialoguem_vdialoguemrhous_00120efd_1.wav|Not if you've been invited. You realize that you've made quite a splash here in New Vegas?
+vdialoguem_vdialoguemrhous_00120efd_2.wav|I can predict with a high degree of confidence that you'll receive an official summons from Caesar. If you haven't already, that is.
+vdialoguem_vdialoguemrhous_00120f0f_2.wav|I want you to open a hatch in the basement of the derelict weather station atop Fortification Hill.
+vdialoguem_vdialoguemrhous_00120f0f_3.wav|You'll recognize it on sight. The hatch bears the logo of the Lucky 38, same as the Platinum Chip.
+vdialoguem_vdialoguemrhous_00120f1d_1.wav|I'm not surprised. The Legion has spies on the Strip.
+vdialoguem_vdialoguemrhous_00120f10_1.wav|You have? So you have the means to gain entry?
+vdialoguem_vdialoguemrhous_00120efc_1.wav|If you find Caesar's Legion so frightening at this remove, imagine them rampaging across the Strip.
+vdialoguem_vdialoguemrhous_00120efc_2.wav|We have a chance to see them detroyed, to see New Vegas become the harbinger of a new age.
+vdialoguem_vdialoguemrhous_0014eab2_1.wav|This is not the time for Q&A. Kindly hand over the Chip.
+vdialoguem_vdialoguemrhous_0014eabb_1.wav|This is not the time for Q&A. Kindly hand over the Chip.
+vdialoguem_vdialoguemrhous_001228a2_1.wav|I'm not offering you an incentive as crude as money - though there'll be plenty of that.
+vdialoguem_vdialoguemrhous_001228a2_2.wav|What I'm offering you is a ground-floor opportunity in the most important enterprise on Earth.
+vdialoguem_vdialoguemrhous_001228a2_3.wav|What I'm offering is a future - for you, and for what remains of the human race.
+vdialoguem_vdialoguemrhous_00120eff_1.wav|Well enough. We can put the past behind us, I think.
+vdialoguem_vdialoguemrhous_00120f01_1.wav|Then this is a waste of time.
+vdialoguem_vdialoguemrhous_00120f08_1.wav|A great deal shall be happening - a cascade of events, with you taking a central role.
+vdialoguem_vdialoguemrhous_00120f08_2.wav|At the moment, however, all you need to do is take the elevator all the way down to the bottom level. You'll understand soon enough...
+vdialoguem_vdialoguemrhous_0014b644_1.wav|A great deal shall be happening - a cascade of events, with you taking a central role.
+vdialoguem_vdialoguemrhous_0014b644_2.wav|At the moment, however, all you need to do is take the elevator all the way down to the bottom level.
+vdialoguem_vdialoguemrhous_0014b644_3.wav|What you see there will help you understand the significance of what you accomplished at the Fort.
+vdialoguem_vdialoguemrhous_0014b659_3.wav|Yes, so far as you've seen, all it does is change the picture on the Securitrons' face screens from policemen to soldiers. But as you'll see...
+vdialoguem_vdialoguemrhous_00120f03_1.wav|Some things are more easily shown than told. Take the elevator all the way down to the bottom level, and you'll see what I mean.
+vdialoguem_vdialoguemrhous_00120f03_2.wav|Don't worry, you'll like what you see. We have much to accomplish, you and I...
+vdialoguem_vdialoguemrhous_0014b65c_1.wav|I must insist that you stay long for me to show you that the Platinum Chip does more than change the pictures on the Securitrons' face screens.
+vdialoguem_vdialoguemrhous_0014b65c_2.wav|Events of great import are about to unfold, with you taking a central role. To get started, all you need do is take the elevator all the way down...
+vdialoguem_vdialoguemrhous_00120f00_1.wav|I must insist that you stay long for me to show you what the Chip does. I promise you'll like what you see...
+vdialoguem_vdialoguemrhous_00120f00_2.wav|Events of great import are about to unfold, with you taking a central role.
+vdialoguem_vdialoguemrhous_00120f00_3.wav|To get started, all you need to do is take the elevator all the way down to the bottom level...
+vdialoguem_vdialoguemrhous_00120f05_1.wav|I'm surprised you can still underestimate me after everything you've seen.
+vdialoguem_vdialoguemrhous_00120f05_2.wav|I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate.
+vdialoguem_vdialoguemrhous_00120f05_3.wav|They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself.
+vdialoguem_vdialoguemrhous_00120f17_2.wav|Why would I want to go to war against the NCR? They're my best customers.
+vdialoguem_vdialoguemrhous_00120f17_3.wav|If their leaders weren't scheming to steal Vegas out from under me, I'd have no troubles with the NCR at all.
+vdialoguem_vdialoguemrhous_00120f0b_1.wav|No no no, you'll want to hear this out...
+vdialoguem_vdialoguemrhous_001599cb_1.wav|Disappointing. In the extreme.
+vdialoguem_vdialoguemrhous_00120f07_1.wav|The next step will require you to infiltrate Caesar's camp at Fortification Hill.
+vdialoguem_vdialoguemrhous_001228a5_1.wav|You'll have to return to Caesar's camp at Fortification Hill.
+vdialoguem_vdialoguemrhous_00120f09_1.wav|Do you have any idea how prodigious is the opportunity you're casting aside here?
+vdialoguem_vdialoguemrhous_001228a1_1.wav|Here, take the Platinum Chip again. You will need it.
+vdialoguem_vdialoguemrhous_001228a1_2.wav|Upon arrival at the Fort, it's likely that you'll be searched and the Chip taken from you. Don't worry - it will come back to you.
+vdialoguem_vdialoguemrhous_00155104_1.wav|I expect that if Benny doesn't have the Chip, Caesar will make sure you get it. More on that later. Be off.
+vdialoguem_vdialoguemrhous_001228a0_1.wav|Something very important. I wouldn't want to spoil the surprise - so don't bother asking.
+vdialoguem_vdialoguemrhous_00120f16_1.wav|That's because he ceased to be relevant when you recovered the Platinum Chip. Revenge doesn't interest me, progress does.
+vdialoguem_vdialoguemrhous_00120f16_2.wav|Sorry to deny you a moment of primate triumph, but you'll have to go elsewhere to sound your barbaric yawp.
+vdialoguem_vdialoguemrhous_001228a4_1.wav|I'll give you time to think over the consequences of what you're saying. I urge you to reconsider.
+vdialoguem_vdialoguemrhous_00116b56_4.wav|Of course you haven't. Vegas always was one of a kind.
+vdialoguem_vdialoguemrhous_00116b56_1.wav|What you see down on the Strip is just a fraction of the city's former glory, and yet... more than an echo. I preserved its spirit.
+vdialoguem_vdialoguemrhous_00116b56_3.wav|Or perhaps you were referring to the Lucky 38? The years haven't been kind to her, but still she manages to impress.
+vdialoguem_vdialoguemrhous_00116b54_3.wav|Oh, come now - don't play the fool. Vegas has fools enough, a superfluity of them. They're what makes it so profitable.
+vdialoguem_vdialoguemrhous_00116b54_1.wav|They come to Vegas chasing penny-ante dreams of high-living, to feel like they're big shots, like they're winners.
+vdialoguem_vdialoguemrhous_00116b54_2.wav|You see that you and I are of a different stripe, don't you? We don't have to dream that we're important. We are.
+vdialoguem_vdialoguemrhous_00116b4e_1.wav|You aren't going to ramble on about the virtues of life out in the wastes, are you? It's a desert, you do realize?
+vdialoguem_vdialoguemrhous_00116b4e_2.wav|A radioactive desert where humans subsist in a barbaric state? Difficult to glorify convincingly. They are, however, aptly named.
+vdialoguem_vdialoguemrhous_00116b4e_3.wav|For that's what you'd be out there - wasted. Here on the Strip, your talents can be put to use.
+vdialoguem_vdialoguemrhous_001599c8_1.wav|Oh, by all means - yes. That's refreshing.
+vdialoguem_vdialoguemrhous_00116b55_1.wav|The business is this. One of my employees has stolen an item of extraordinary value from me, and I want it recovered.
+vdialoguem_vdialoguemrhous_00116b55_2.wav|Simple enough?
+vdialoguem_vdialoguemrhous_00118a3e_1.wav|You're ready to move forward, then?
+vdialoguem_vdialoguemrhous_00116b4f_2.wav|Oh, don't be coy. You've been playing a high-stakes game ever since Victor dug you out of the ground. Don't be afraid to admit it.
+vdialoguem_vdialoguemrhous_00120f11_1.wav|I've resurrected Vegas, spirit intact. What I need now is the ability to enforce my rightful claim.
+vdialoguem_vdialoguemrhous_00120f11_2.wav|Not just against Caesar's Legion, by the way. In fact, the NCR is a more present and insidious threat.
+vdialoguem_vdialoguemrhous_00120f12_1.wav|To enforce, one must have force - a position of strength.
+vdialoguem_vdialoguemrhous_00120f12_2.wav|Years ago, when I detected NCR scouts roaming the Mojave, I could tell from their uniforms that these were no mere tribesmen.
+vdialoguem_vdialoguemrhous_00120f12_3.wav|I knew it was only a matter of time before an army appeared, to take control of the dam. And I knew my Securitrons wouldn't be enough to oppose them.
+vdialoguem_vdialoguemrhous_00120f12_4.wav|And so I recruited the Three Families. Vegas belongs to me because I mustered enough strength to bring the NCR to the bargaining table.
+vdialoguem_vdialoguemrhous_00120f13_1.wav|Indeed it was - and still is. But not without taking significant casualties.
+vdialoguem_vdialoguemrhous_00120f13_2.wav|Would Kimball and Oliver have traded the lives of hundreds of soldiers for absolute control of Hoover Dam? Oh yes.
+vdialoguem_vdialoguemrhous_00120f13_3.wav|They weren't afraid of me, they were afraid of Caesar - that attacking me would leave them vulnerable to a Legion offensive.
+vdialoguem_vdialoguemrhous_00120f13_4.wav|And so they negotiated. Not out of the kindness of their hearts, as they try to make it seem. Because the calculus of power left no other choice.
+vdialoguem_vdialoguemrhous_00120f14_1.wav|NCR forces were permitted to occupy Hoover Dam and establish a military base at McCarran Airport. Well, it used to be one.
+vdialoguem_vdialoguemrhous_00120f14_2.wav|They recognized my sovereignty over the Vegas Strip and agreed to supply electricity and water once their engineers repaired the dam.
+vdialoguem_vdialoguemrhous_00120f14_3.wav|Written into the treaty were provisions that the NCR do nothing to prevent its soldiers and civilians from visiting the Strip.
+vdialoguem_vdialoguemrhous_00120f14_4.wav|That's how I harnessed the NCR to my endeavor. Their occupation has been the engine of my growing economy.
+vdialoguem_vdialoguemrhous_0014eac4_1.wav|The salient issue is that they will go to war with me, if given the chance.
+vdialoguem_vdialoguemrhous_0014eac4_2.wav|There's just one reason why the NCR hasn't contrived some outrage to justify invading the Strip - Caesar's Legion.
+vdialoguem_vdialoguemrhous_0014eac4_3.wav|The final battle between those two armies is fast approaching. I can't afford to let either side win on their terms.
+vdialoguem_vdialoguemrhous_001599c9_2.wav|New Vegas is more than a city - it's the remedy to mankind's derailment.
+vdialoguem_vdialoguemrhous_001599c9_3.wav|The city's economy is a blast furnace in which can be forged the steel of a new rail line, running straight to a new horizon.
+vdialoguem_vdialoguemrhous_001599c9_4.wav|What is the NCR? A society of people desperate to experience comfort, ease, luxury... A society of customers.
+vdialoguem_vdialoguemrhous_001599c9_5.wav|With all that money pouring in? Give me 20 years, and I'll reignite the high technology development sectors. 50 years, and I'll have people in orbit.
+vdialoguem_vdialoguemrhous_001599c9_6.wav|100 years, and my colony ships will be heading for the stars, to search for planets unpolluted by the wrath and folly of a bygone generation.
+vdialoguem_vdialoguemrhous_00159a14_1.wav|I prefer the term "autocrat."
+vdialoguem_vdialoguemrhous_00159a14_2.wav|I would rule as a chief executive. I would not answer to a board of directors or any other entity.
+vdialoguem_vdialoguemrhous_00159a14_3.wav|Nothing to impede progress. If you want to see the fate of democracies, look out the windows.
+vdialoguem_vdialoguemrhous_00159a15_1.wav|My judgement.
+vdialoguem_vdialoguemrhous_00159a15_2.wav|I have no interest in abusing others, just as I have no interest in legislating or otherwise dictating what people do in their private time.
+vdialoguem_vdialoguemrhous_00159a15_3.wav|Nor have I any interest in being worshipped as some kind of machine god messiah. I am impervious to such corrupting ambitions.
+vdialoguem_vdialoguemrhous_00159a15_4.wav|But autocracy? Firm control in the hands of a technological and economic visionary? Yes, that Vegas shall have.
+vdialoguem_vdialoguemrhous_00118a3c_1.wav|Well enough.  Return to me when you have the Platinum Chip in your possession. Any final matters for us to discuss?
+vdialoguem_vdialoguemrhous_00118a38_1.wav|My only concern is the recovery of the Platinum Chip. What happens to Benny, I leave to your discretion.
+vdialoguem_vdialoguemrhous_00118a38_2.wav|When you bring the Chip to me, I will pay you four times the delivery bonus stipulated in your contract. How's that?
+vdialoguem_vdialoguemrhous_0011d990_1.wav|As I said before, Benny's fate is yours to decide. Once you've delivered the Chip, I will pay you the amount agreed-upon.
+vdialoguem_vdialoguemrhous_00118a04_1.wav|Benny has led the Chairmen ever since I recruited his tribe seven years ago.
+vdialoguem_vdialoguemrhous_00118a04_2.wav|Until his recent misbehavior, I'd planned to make him my protege. Maybe if I'd begun grooming him sooner, none of this would've happened...
+vdialoguem_vdialoguemrhous_00118a3f_1.wav|My offer far exceeds the original terms of your contract, which, I will remind you, already obligate you to deliver the Chip.
+vdialoguem_vdialoguemrhous_00118a40_1.wav|[SUCCEEDED] Very well, five times the bonus. Not one cap more.
+vdialoguem_vdialoguemrhous_00118a41_1.wav|[FAILED] Is that an attempt at... humor?
+vdialoguem_vdialoguemrhous_00118a41_2.wav|I've always taken business negotiations very seriously. I advise you to do the same.
+vdialoguem_vdialoguemrhous_00118a00_1.wav|It's a very special item. There's nothing else like it in the entire world. It was lost a long time, and difficult to find.
+vdialoguem_vdialoguemrhous_00118a00_3.wav|That's all you need to know about it, for this stage of our enterprise. Fulfill your contract, deliver the Chip, and good things will come your way.
+vdialoguem_vdialoguemrhous_00126d8a_1.wav|Benny was the leader of the Chairmen for seven years, ever since I recruited the tribe. I considered him something of a protege.
+vdialoguem_vdialoguemrhous_00118a09_3.wav|I am Robert Edwin House, President, CEO, and sole proprietor of the New Vegas Strip.
+vdialoguem_vdialoguemrhous_00118a09_2.wav|I oversaw the city's renovations starting from 2274 onward. The Three Families are my employees.
+vdialoguem_vdialoguemrhous_00118a09_1.wav|Before the Great War of 2077, I was the founder, President and CEO of RobCo Industries, a vast computer and robotics corporation.
+vdialoguem_vdialoguemrhous_00118a3b_1.wav|It's understandable that you'd be curious about this topic, but we'll hold off until the Platinum Chip has been recovered.
+vdialoguem_vdialoguemrhous_00118a11_1.wav|[SUCCEEDED] You might keep an eye out for any computers that Benny's been using. Maybe even a computer lab of some sort...
+vdialoguem_vdialoguemrhous_00118a12_1.wav|[FAILED] You have a contract to fulfill, a delivery to make.
+vdialoguem_vdialoguemrhous_00118a12_2.wav|If you can't hold to a contract, simply for the ethic of holding to a contract, you're worthless to me.
+vdialoguem_vdialoguemrhous_00118a01_1.wav|Don't let the video screens and computer terminals fool you. I'm flesh and blood, not silicon.
+vdialoguem_vdialoguemrhous_00118a07_1.wav|[SUCCEEDED] I see you've made a study of the topic. My knowledge of the science of longevity would fill several text books...
+vdialoguem_vdialoguemrhous_00118a07_2.wav|Perhaps, after a decade or two of economic reconstruction, I can commercialize these technologies and offer to others, such as yourself.
+vdialoguem_vdialoguemrhous_00118a08_1.wav|[FAILED] No. While brains demonstrated some use as organic processors in the robots produced by General Atomics International...
+vdialoguem_vdialoguemrhous_00118a08_2.wav|They never retained personality once removed from the human body.
+vdialoguem_vdialoguemrhous_001189fe_1.wav|Let's just say it was very... costly. But I was willing to make the sacrifices longevity entailed, financial and otherwise.
+vdialoguem_vdialoguemrhous_00118a3a_1.wav|Until then.
+vdialoguem_vdialoguemrhous_00118c0b_1.wav|So you've said before. You're making a habit of wasting my time.
+vdialoguem_vdialoguemrhous_00118c0c_1.wav|You signed a contract in good faith to deliver that Chip. You're going to have a hard time on the Strip if you are so incautious of making enemies...
+vdialoguem_vdialoguemrhous_00118c0d_1.wav|Please focus on the task at hand - for both our sakes.
+vdialoguem_vdialoguemrhous_00118c0e_1.wav|No, you haven't.
+vdialoguem_vdialoguemrhous_00118c0e_2.wav|This is the second time you've promised to deliver the Platinum Chip. Even if you don't hold yourself to your promises, I will.
+vhdhousebattle_greeting_001554d8_1.wav|I knew you'd make it. Resourceful, as always.
+vhdhousebattle_greeting_001554d8_2.wav|The override module is functioning properly. I'm rerouting power to the Securitron vault at the Fort as we speak...
+vhdhousebattle_greeting_001554d8_6.wav|I just need you to head over to the east power plant and manually activate the switch.
+vhdhousebattle_greeting_001554d8_3.wav|When you return topside, I think you'll see that my Securitron army is a little more than the Legion was prepared to handle.
+vhdhousebattle_greeting_001554d8_4.wav|Oh, and before you go - grab that print-out spooling from the console here - those papers set the terms for the NCR's unconditional surrender.
+vhdhousebattle_greeting_001554d8_5.wav|I thought you might enjoy the honor of presenting them to the NCR's commanding officer, once the Legion has been defeated. Cheers!
+vdialoguemrhouse_greeting_0014b665_1.wav|I do wish you'd come and met with me at the Lucky 38 when you first arrived on the Strip. Or after Benny fled, even.
+vdialoguemrhouse_greeting_0014b666_1.wav|I do wish you'd come and met with me at the Lucky 38 when you first arrived on the Strip. Or after you killed Benny, even.
+vdialoguemrhouse_greeting_0014b667_2.wav|Quite an honor you spurned, my invite. You would be the first person to set foot inside the Lucky 38 in over 200 years.
+vdialoguemrhouse_greeting_0014b667_3.wav|But... you still wound up here, right where I wanted you. I knew I could rely on Caesar to return the Platinum Chip to you.
+vdialoguemrhouse_greeting_0014b668_1.wav|Well! You're here ahead of schedule! I suppose it's just as well...
+vdialoguemrhouse_greeting_0014b668_2.wav|This is where I wanted you to end up, after all. I knew I could rely on Caesar to give you back the Platinum Chip.
+vdialoguemrhouse_greeting_0014b669_1.wav|I see that you reached your destination safely. Shall we get to work?
+vdialoguemrhouse_greeting_0014d2d0_1.wav|Have you come to your senses? It's not too late to upload the Platinum Chip's data to the primary computer.
+vdialoguemrhouse_greeting_0014b66a_1.wav|Stop wasting time. Go upload the data on the Platinum Chip to the facility's primary computer.
+vdialoguemrhouse_greeting_0014b66b_1.wav|As you know, the Platinum Chip upgrades my Securitrons' operating software. Well... there's an army of them here.
+vdialoguemrhouse_greeting_0014b66b_2.wav|The Securitrons policing the Strip are a fraction of the total number manufactured. The rest, I stored here.
+vdialoguemrhouse_greeting_0014b66c_1.wav|The Platinum Chip is a data-storage device.
+vdialoguemrhouse_greeting_0014b66d_2.wav|I need you to manually upload the data from the Chip to the facility's primary computer. There's a terminal at the other end of this facility.
+vdialoguemrhouse_greeting_0014b66d_3.wav|There's a complication. While I can broadcast to this screen, I can't control any of the facility's systems.
+vdialoguemrhouse_greeting_0014b66d_4.wav|That means I can't deactivate its security bots... most of which appear to be active, according to the status board I'm looking at.
+vdialoguemrhouse_greeting_0014b66e_1.wav|Do you have the slightest idea of what you've done, of what you've destroyed?
+vdialoguemrhouse_greeting_0014b66e_2.wav|You've doomed Vegas to be ruled by corrupt bureaucrats or fanatical savages.
+vdialoguemrhouse_greeting_0014b66e_3.wav|Singlehandedly, you've brought mankind's best hopes of forward progress crashing down. No punishment would be too severe.
+vdialoguemrhouse_greeting_0014b66f_1.wav|Your work here is done. Return to the Lucky 38 so we can discuss next steps.
+vdialoguemrhouse_greeting_0014b66f_2.wav|You have a very bright future ahead of you. Thanks to your actions today, so does the rest of mankind.
+vdialoguemrhouse_greeting_0014eadc_1.wav|Benny is dead, and yet you don't appear to be carrying the Platinum Chip.
+vdialoguemrhouse_greeting_0014eadc_2.wav|I don't suppose you forgot to search his body?
+vdialoguemrhouse_greeting_0014b670_1.wav|Before we go any further - where is the Platinum Chip?
+vdialoguemrhouse_greeting_0014b671_1.wav|So, we meet in person finally... so to speak. You did well at the Fort - kudos.
+vdialoguemrhouse_greeting_00120f25_1.wav|Have you come to your senses - or will there be a repeat of the last incident?
+vdialoguemrhouse_greeting_00125eb3_1.wav|You've been a busy courier, haven't you? You take your obligation to deliver an package very seriously - an ethic for which I am grateful.
+vdialoguemrhouse_greeting_00125eb3_2.wav|I will admit, when you ignored my invitation, I predicted... negative outcomes. But - you have a way of exceeding expectations, don't you?
+vdialoguemrhouse_greeting_00125eb3_3.wav|Well enough. Let's have the Chip, then.
+vdialoguemrhouse_greeting_00116b50_1.wav|This meeting has been a long time coming, hasn't it? You've come a long ways, literally and, I suspect, figuratively as well.
+vdialoguemrhouse_greeting_00116b50_2.wav|I have to ask - now that you've reached your destination, what do you make of what you see?
+vdialoguemrhouse_greeting_0014eadd_1.wav|The point of my inviting you to visit me here at the Lucky 38 before stomping into the Tops on your own was to help you prepare - tactically.
+vdialoguemrhouse_greeting_0014eadd_2.wav|Now, because of your carelessness, Benny has fled the Strip, taking with him the Platinum Chip.
+vdialoguemrhouse_greeting_00118a19_1.wav|Well... this meeting has been a long time in coming... longer still, since you took time to charge into the Tops before coming to see me.
+vdialoguemrhouse_greeting_00118a19_2.wav|Before we get down to details, I must ask - now that you've arrived at your destination, what do you make of what you see?
+vdialoguemrhouse_greeting_00118a1c_1.wav|Can I look forward to a more substantial conversation this time?
+vdialoguemrhouse_greeting_00118c0f_1.wav|Have you considered the terms of my offer? There's else little for us to discuss until you have.
+vdialoguemrhouse_greeting_00118c10_1.wav|What is the purpose of this delay?
+vdialoguemrhouse_greeting_0014b673_1.wav|Events have transpired in a... less-than-optimal fashion. Benny has fled the Strip, and the Platinum Chip has not been recovered.
+vdialoguemrhouse_greeting_00155111_1.wav|Benny must be pursued, and the Platinum Chip, recovered.
+vdialoguemrhouse_greeting_0014b674_1.wav|So... Benny has been handled and you've recovered the Platinum Chip. Let's have it.
+vdialoguemrhouse_greeting_00118fd1_1.wav|I take it you've come to deliver the Platinum Chip?
+vdialoguemrhouse_greeting_00120f26_1.wav|Such a small thing, isn't it? And yet so... capacious. So very dear.
+vdialoguemrhouse_greeting_00120f26_2.wav|Decades of hiring salvagers out west to search for this little relic in the ruins of a place called Sunnyvale. Back then, anyway.
+vdialoguemrhouse_greeting_00120f26_3.wav|That's where the Chip was printed, on October 22, 2077. It was to have been hand-delivered to me here, at the Lucky 38, the next day.
+vdialoguemrhouse_greeting_00120f26_4.wav|But the bombs fell first. Suffice it to say, the delivery was never made.
+vdialoguemrhouse_greeting_00120f27_1.wav|Come now, come now... get thee to the elevator.
+vdialoguemrhouse_greeting_001599ca_1.wav|To the elevator, if you please... Stop dragging your feet.
+vdialoguemrhouse_greeting_00120f28_1.wav|Trips to the basement are rarely so educational, don't you think?
+vdialoguemrhouse_greeting_00120f28_2.wav|I've since broadcast the upgrade to every Securitron in range of my transmitters, and I must say, it's causing quite a stir down on the Strip!
+vdialoguemrhouse_greeting_0014d2d1_1.wav|Make your way to Caesar's Camp at Fortification Hill. Something very interesting awaits you...
+vdialoguemrhouse_greeting_00120f29_1.wav|To secure the future of New Vegas, I must have your assistance. The work ahead is dangerous, but you weather danger well.
+vdialoguemrhouse_greeting_001418c6_1.wav|Have you found the courage to do what's necessary?
+vdialoguemrhouse_greeting_00118a05_1.wav|What did you wish to know?
+vdialoguemrhouse_greeting_0011d995_1.wav|What else did you want to know?
+vdialoguemrhouse_greeting_00125eb4_1.wav|We'll talk again once you've concluded your work in the bunker at Fortification Hill.
+vdialoguemrhouse_greeting_001418c0_1.wav|The foundation is laid. My Securitrons on the Strip are upgraded, and those at the Fort, ready for action.
+vdialoguemrhouse_greeting_001418c0_2.wav|Now it's just a matter of adjusting the attitudes of some lesser groups while we wait for Caesar's Legion to attack Hoover Dam.
+vdialoguemrhouse_greeting_001418c1_1.wav|The next step is to add the Boomers' considerable firepower to my growing arsenal... or at the very least, ensure their neutrality.
+vdialoguemrhouse_greeting_0014f567_1.wav|As I was saying, I need you to enlist or neutralize the Boomers at Nellis Air Force Base.
+vdialoguemrhouse_greeting_00125eb7_1.wav|Any progress with the Boomers?
+vdialoguemrhouse_greeting_001418c2_1.wav|Your next assignment won't take you far. It concerns the Omertas and their den of vice, Gomorrah.
+vdialoguemrhouse_greeting_001418c2_2.wav|As the decisive encounter between the bull and the bear looms close, my concerns about the Omertas have grown.
+vdialoguemrhouse_greeting_001418c2_3.wav|I've never expected loyalty, mind you. A reliably underhanded tribe is just as constant to deal with as one that always run true.
+vdialoguemrhouse_greeting_001418c2_4.wav|But that's just it - lately the Omertas' cooperative silence has been deafening. Not a single complaint? They're up to something.
+vdialoguemrhouse_greeting_001418c3_1.wav|Your next assignment would've been to investigate the Omertas, but you managed to foil their scheme before I could put you to the task.
+vdialoguemrhouse_greeting_001418c3_2.wav|I should compensate you as though it were an official assignment, however. Wouldn't want to disincentivize your proactivity.
+vdialoguemrhouse_greeting_00155112_1.wav|I'd hoped to have you investigate the Omertas, but after the trouble you caused at Gomorrah, they won't let you in the front door.
+vdialoguemrhouse_greeting_00155112_3.wav|I'll see if I can make some progress with informants. You're useless in this matter.
+vdialoguemrhouse_greeting_0014f568_1.wav|As I said before, I need you to investigate the Omertas, to see what they're up to.
+vdialoguemrhouse_greeting_00125eb6_1.wav|What do you have to report about the Omertas?
+vdialoguemrhouse_greeting_001418c4_1.wav|Your next assignment is to locate and destroy remnants of the Mojave chapter of the Brotherhood of Steel.
+vdialoguemrhouse_greeting_001418c4_2.wav|The NCR nearly did the job at Helios One a few years ago, but there seem to have been survivors, unfortunately.
+vdialoguemrhouse_greeting_001418c4_3.wav|Given the Brotherhood's fanatical views on technology, they can be counted on to oppose my regime.
+vdialoguemrhouse_greeting_001418c4_4.wav|Please - put them out of my misery.
+vdialoguemrhouse_greeting_0014f569_1.wav|As I've said, I need you to locate and destroy the Brotherhood of Steel.
+vdialoguemrhouse_greeting_00125eb8_1.wav|Have you destroyed the Brotherhood of Steel?
+vdialoguemrhouse_greeting_0014f56a_1.wav|Will you ensure that President Kimball survives his visit to Hoover Dam?
+vdialoguemrhouse_greeting_001418c5_1.wav|Aaron Kimball, the president of the New California Republic, is going to visit Hoover Dam to "boost morale."
+vdialoguemrhouse_greeting_001418c5_2.wav|Apparently he hasn't considered the effect on the troops' morale of seeing their beloved leader get his brains blown out by a Legion sniper.
+vdialoguemrhouse_greeting_0014eade_1.wav|I need you to make sure that no harm comes to President Kimball. It's fortunate that you've maintained good relations with the NCR...
+vdialoguemrhouse_greeting_0014eadf_1.wav|Unfortunately, I can't use you to protect Kimball. The NCR won't let you come within a thousand feet of the President.
+vdialoguemrhouse_greeting_0014eadf_2.wav|Odds are that Caesar will launch his assault on the dam after Kimball's visit is concluded, one way or the other - so be on guard.
+vdialoguemrhouse_greeting_00126d9b_1.wav|Last I knew, President Kimball wasn't scheduled to visit the Lucky 38. Be on your way to Hoover Dam, will you?
+vdialoguemrhouse_greeting_00125eb9_1.wav|If not for you, President Kimball would be dead. So you needn't feel guilty when the NCR's rout from Hoover Dam demolishes his political career.
+vdialoguemrhouse_greeting_00126d9c_1.wav|Why in the world did you attack President Kimball?
+vdialoguemrhouse_greeting_00125eba_1.wav|Kimball is dead - what a mess you've made!
+vdialoguemrhouse_greeting_00155113_1.wav|Between the Strip and HELIOS One lies the El Dorado electrical substation.
+vdialoguemrhouse_greeting_00155113_2.wav|Humble as it appears, the substation has immense strategic value, for it's there that you'll jumpstart the Lucky 38's dormant reactor.
+vdialoguemrhouse_greeting_00155113_3.wav|Gain access to the substation's control room and install this override module. Just so you know, there are NCR troops guarding the station.
+vdialoguemrhouse_greeting_00125ebb_1.wav|Until the Lucky 38's reactor has been restarted, we have nothing to discuss.
+vdialoguemrhouse_greeting_00155114_1.wav|As you can see, Vegas is humming along. I've tested my c3i broadcasting arrays. Everything is in order.
+vdialoguemrhouse_greeting_00155114_2.wav|And just in time, as it turns out. The forces of Caesar's Legion are on the march, establishing a staging area east of the dam.
+vdialoguemrhouse_greeting_00155114_3.wav|Their assault could begin at any moment. So that's where you'll be heading, if you're ready - Hoover Dam.
+vdialoguemrhouse_greeting_00125ebd_1.wav|The Legion's assault could begin at any moment.
+vdialoguemrhouse_greeting_00118a21_1.wav|What did you want to discuss?
+vdialoguemrhouse_greeting_0011a0f7_1.wav|What else did you want to discuss?
+vdialoguemrhouse_greeting_0014b675_1.wav|There will be no repeat of the trouble we had last time, I trust?
+vdialoguemrhouse_greeting_0014b676_1.wav|I'm optimistic that this conversation will go more smoothly.
+vdialoguemrhouse_greeting_0014f56b_1.wav|I'd rather you just dealt with the Boomers, but all right...
+vdialoguemrhouse_greeting_0014f56c_1.wav|I suppose the Omertas can wait a few minutes.
+vdialoguemrhouse_greeting_0014f56d_1.wav|A few questions, and then you'll handle the Brotherhood, I hope?
+vdialoguemrhouse_greeting_0014f56e_1.wav|Questions like "Will President Kimball survive his visit to Hoover Dam?"
+vdialoguemrhouse_greeting_0014f56f_1.wav|Even now? On the brink of battle?
