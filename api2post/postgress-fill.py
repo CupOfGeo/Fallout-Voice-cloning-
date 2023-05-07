@@ -1,7 +1,7 @@
 from tqdm import tqdm
 import os
 from sqlalchemy.orm import sessionmaker
-from api2post.connect2postgress import Transcription, connect_with_connector
+from connect2postgress import Transcription, get_db
 
 """
 This helps me fill the database given a transcription 
@@ -14,11 +14,7 @@ def insert_data_from_file(filename):
     # Open the file for reading
     with open(filename, 'r') as file:
         # Create a session
-        engine = connect_with_connector()
-
-        # Define a session factory
-        Session = sessionmaker(bind=engine)
-        session = Session()
+        session = get_db()
 
         # Iterate over each line in the file
         for line in tqdm(file):
@@ -32,7 +28,9 @@ def insert_data_from_file(filename):
                 edited_transcription=None,
                 questionable=None,
                 dont_use=None,
-                character_id=0
+                character_id=0,
+                locked_by=None,
+                locked_time=None
             )
             # print(transcription)
             # Add the object to the session
@@ -40,10 +38,10 @@ def insert_data_from_file(filename):
             
 
         # Commit the session
-        # session.commit()
+        session.commit()
 
         # Close the session
         session.close()
 
 # Call the function to insert the data
-insert_data_from_file('/Users/mazzeogeorge/Desktop/Fallout/Zombies/plr0/cosmo-plr0-whisper.txt')
+# insert_data_from_file('/Users/mazzeogeorge/Desktop/Fallout/Zombies/plr0/cosmo-plr0-whisper.txt')

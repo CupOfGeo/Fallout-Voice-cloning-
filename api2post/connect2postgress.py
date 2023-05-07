@@ -10,6 +10,7 @@ import os
 from google.cloud.sql.connector import Connector, IPTypes
 
 
+
 # Set the path to your service account key JSON file
 SERVICE_ACCOUNT_FILE = 'playground-geo-35c6afedf9ed.json'
 
@@ -89,8 +90,8 @@ class Transcription(Base):
     questionable = Column(Boolean)
     dont_use = Column(Boolean)
     character_id = Column(Integer)
-    # locked_by = Column(Integer)
-    # locked_time = Column(Time)
+    locked_by = Column(Integer)
+    locked_time = Column(Time)
 
     def __str__(self):
         return (f"Transcription(id={self.id}, "
@@ -99,4 +100,7 @@ class Transcription(Base):
                 f"edited_transcription='{self.edited_transcription}', "
                 f"questionable={self.questionable}, "
                 f"dont_use={self.dont_use}, "
-                f"character_id={self.character_id})")
+                f"character_id={self.character_id}, "
+                f"locked_by={self.locked_by}, "
+                f"locked_time={self.locked_time})"
+        )
