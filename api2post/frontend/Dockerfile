@@ -13,11 +13,8 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-# Set the environment variable for the backend URL
-ENV BACKEND_URL=http://0.0.0.0:80
-
 # Make port 80 available to the world outside this container
 EXPOSE 8050
 
 # Run transcript-reviewer.py when the container launches
-CMD ["uvicorn", "transcript-reviewer:app", "--host", "0.0.0.0", "--port", "8050"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8050", "transcript-reviewer:server"]

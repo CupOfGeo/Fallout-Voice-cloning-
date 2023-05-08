@@ -53,7 +53,7 @@ def set_client_id(dummy,client_id):
 
 def get_rows():
     # query for the first row with NULL edited_transcription
-    url = "http://0.0.0.0:80/get-transcriptions/"
+    url = f"{os.environ['BACKEND_URL']}/get-transcriptions/"
     payload = {'client_id': 100}
     response = requests.post(url, json=payload)
     rows = response.json()
@@ -64,7 +64,7 @@ def get_rows():
 
 
 def save_row(row, new_transcription, questionable, bad):
-    url = "http://0.0.0.0:80/update-transcriptions/"
+    url = f"{os.environ['BACKEND_URL']}/update-transcriptions/"
     if new_transcription:
         payload = UpdateTranscriptModel(
             id=int(row['id']),
