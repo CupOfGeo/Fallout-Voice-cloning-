@@ -10,7 +10,7 @@ COPY requirements.txt requirements.txt
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
-ENV TEST_POSTGRES_PASSWORD=Mokaman1!
+
 # Copy the current directory contents into the container at /app
 COPY . /app
 

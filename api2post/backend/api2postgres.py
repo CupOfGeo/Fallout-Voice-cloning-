@@ -22,6 +22,7 @@ class TranscriptionModel(BaseModel):
       character_id: int
       locked_by: int
       locked_time: datetime
+      client_id: int
 
 class GetTranscriptionResponse(BaseModel):
     results: list[TranscriptionModel]
@@ -54,8 +55,6 @@ def create_transcription(data: GetTranscriptModel):
     """user request to get transcriptions to edit"""
     with DBSession() as session:
         rows = session.query(Transcription).filter(Transcription.edited_transcription == None, Transcription.locked_by == None).limit(5).all()
-        
-        # rows = session.query(Transcription).filter(Transcription.edited_transcription == None and Transcription.locked_by == None).limit(5).all()
         for row in rows:
             row.locked_by = data.client_id
             row.locked_time = func.now()
@@ -71,6 +70,7 @@ def update_transcriptions(data: UpdateTranscriptModel):
         transcription.edited_transcription = data.edited_transcription
         transcription.questionable = data.questionable
         transcription.dont_use = data.dont_use
+        transcription.client_id = data.client_id
         if transcription.locked_by != data.client_id:
             raise ValueError('Transcription is not locked by this client.')
         transcription.locked_by = None

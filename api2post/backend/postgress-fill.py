@@ -30,7 +30,8 @@ def insert_data_from_file(filename):
                 dont_use=None,
                 character_id=0,
                 locked_by=None,
-                locked_time=None
+                locked_time=None,
+                client_id=None
             )
             # print(transcription)
             # Add the object to the session
@@ -44,4 +45,4 @@ def insert_data_from_file(filename):
         session.close()
 
 # Call the function to insert the data
-# insert_data_from_file('/Users/mazzeogeorge/Desktop/Fallout/Zombies/plr0/cosmo-plr0-whisper.txt')
+# insert_data_from_file('/Users/mazzeogeorge/Desktop/Fallout/Zombies/plr0/moon-plr0-whisper.txt')
